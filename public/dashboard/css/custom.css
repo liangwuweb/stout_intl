@@ -1,0 +1,150 @@
+/*!
+ *Custom style for Start Bootstrap - SB Admin 2 v4.0.7 
+ */
+
+
+/* Table Alignment */
+Table Table .table>thead>tr>th,
+.table>tbody>tr>th,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>tbody>tr>td,
+.table>tfoot>tr>td {
+    padding: 8px;
+    line-height: 2.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+
+.table-top {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.actions {
+    margin-bottom: 1em;
+}
+
+/* Color */
+
+.text-primary {
+    color: #024690 !important;
+}
+
+.bg-primary {
+    background-color: #024690 !important;
+}
+
+.page-item.active .page-link {
+    background-color: #024690;
+    border-color: #024690;
+}
+
+.page-link {
+    color: #024690;
+}
+
+/* Card */
+
+.card {
+    border-radius: 2px;
+}
+
+.card-header {
+    border-radius: .35rem .35rem 0 0;
+}
+
+.card-body-style {
+    background: #f3f2f1;
+}
+
+/* Header Success Alert */
+
+.top-alert {
+    margin-bottom: 0 !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    animation-name: slideInDown;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+}
+
+/* Form */
+
+.form-control {
+    border: 1px solid #ffffff;
+    border-radius: 2px !important;
+}
+
+.custom-control-input:checked~.custom-control-label::before {
+    border-color: #4CAF50;
+    background-color: #4CAF50;
+}
+
+/* Summernote */
+
+.note-editor.note-airframe,
+.note-editor.note-frame {
+    border: 1px solid #ffffff !important;
+}
+
+.note-toolbar {
+    background-color: #ffffff !important;
+    border-bottom: none !important;
+}
+
+/* Button */
+
+.btn {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 4px -0.75px;
+    border-radius: 2px !important;
+}
+
+.btn-primary {
+    background-color: #024690;
+    border-color: #024690;
+}
+
+.btn-primary:hover {
+    background-color: #2C81DE;
+    border-color: #2C81DE;
+}
+
+/* Background */
+
+.bg-gradient-primary {
+    background-color: #024690;
+    background-image: linear-gradient(135deg, #2C81DE 10%, #024690 100%);
+}
+
+/* Link */
+
+a {
+    color: #2C81DE;
+}
+
+/* Image */
+.new-login-image {
+    background: url(../../assets/image/students.png);
+    background-position: center;
+    background-size: cover;
+}
+
+/* Animation */
+@keyframes slideInDown {
+    0% {
+        /* opacity: 0; */
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%);
+    }
+
+    100% {
+        /* opacity: 1; */
+        -webkit-transform: translateX(0);
+        -ms-transform: translateX(0);
+        transform: translateX(0);
+    }
+}

@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="355" height="348" viewBox="0 0 355 348">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff9d29;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #474747;
+      }
+    </style>
+  </defs>
+  <title>profile</title>
+  <rect class="cls-1" width="355" height="348"/>
+  <g id="Group_64" data-name="Group 64">
+    <g id="Group_19" data-name="Group 19">
+      <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="177.5" cy="178.5" r="169.5"/>
+      <g id="Person_Icon" data-name="Person Icon">
+        <path id="Bounds" class="cls-2" d="M17.52,8.5H319.18V310.17H17.52Z" transform="translate(7 8)"/>
+        <path id="Icon" class="cls-3" d="M168.33,159.31a50.27,50.27,0,1,0-50.27-50.26h0A50.43,50.43,0,0,0,168.33,159.31Zm0,25.14c-33.9,0-100.54,16.36-100.54,50.26v25.13H268.86V234.71c0-33.9-66.63-50.24-100.53-50.24Z" transform="translate(7 8)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -32,10 +32,10 @@ function listComment() {
 $(document).ready(function () {
     listComment();
 
-    //update the comment list every five sec
-    // setInterval(function () {
-    //     listComment();
-    // }, 5000);
+    // update the comment list every five sec
+    setInterval(function () {
+        listComment();
+    }, 5000);
 
     // When user clicks on submit comment to add comment under post
     $('#submit-comment').click(function (event) {

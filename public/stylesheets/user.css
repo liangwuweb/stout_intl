@@ -752,9 +752,23 @@ textarea {
 .ex-header {
     padding-top: 8rem;
     padding-bottom: 5rem;
-    background-color: #0b5bb1;
+    background-color: rgba(20, 90, 194, 0.35);
     text-align: center;
     padding: 10em 0 10em 0;
+}
+
+.ex-header::before {
+    /* background-image: url('../assets/image/stout.png'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 491px;
+    z-index: -2;
 }
 
 .ex-header .page-header-title {
@@ -764,7 +778,7 @@ textarea {
 
 .ex-header .page-header-text {
     font-size: 1.15rem;
-    color: rgba(255, 255, 255, 0.5) !important;
+    color: rgba(255, 255, 255, 1) !important;
     letter-spacing: 1.5px;
 }
 
@@ -1013,9 +1027,18 @@ svg {
 
     /* Contact form */
     .contact-form .text-container {
-        width: 64.75rem;
+        /* width: 64.75rem; */
         padding-top: 6rem;
         padding-bottom: 5.5rem;
+    }
+
+    /* Overwrite Contact form */
+    .contact-form .text-container {
+        width: 55rem;
+        margin-right: auto;
+        margin-left: auto;
+        padding-top: 5rem;
+        padding-bottom: 4.5rem;
     }
 
     .contact-form h2 {
@@ -1027,10 +1050,16 @@ svg {
         margin-right: 15rem;
         margin-left: 15rem;
     }
+
+    /*About page header image*/
+    .ex-header::before {
+        background-image: url('../assets/image/stout.png');
+    }
+
 }
 
 /* Min-width width 992px */
-@media (min-width: 992px) {
+@media (min-width: 992px) and (max-width:1200px) {
 
     /* Contact form */
     .contact-form .text-container {
@@ -1050,6 +1079,12 @@ svg {
         margin-right: 9rem;
         margin-left: 9rem;
     }
+
+    /*About page header image*/
+    .ex-header::before {
+        background-image: url('../assets/image/stout-tablet.png');
+    }
+
 }
 
 /* Min-width width 768px */
@@ -1064,6 +1099,7 @@ svg {
         margin-right: 4rem;
         margin-left: 4rem;
     }
+
 }
 
 /* Fade Animation For Hero Video */

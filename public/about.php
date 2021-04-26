@@ -20,80 +20,33 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10">
-                <h2 class="mb-4">A quick guide to our company culture</h2>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, eos quisquam expedita quo officiis
-                    porro provident laborum. Earum, consequatur provident, ipsam at excepturi rerum laborum aliquam
-                    facere molestias mollitia recusandae.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, ipsam? Perspiciatis sunt voluptatum
-                    officia non harum, dolores omnis fugiat nam ad optio cumque molestiae impedit dignissimos velit
-                    commodi aliquid iure?</p>
-                <p class="mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Exercitationem sapiente natus
-                    architecto aut porro! Vitae iusto praesentium recusandae debitis, cumque illum amet suscipit rem
-                    pariatur, magni iure laborum inventore in!</p>
+                <h2 class="mb-4">Our Goal</h2>
+                <p>UW-Stout Global helps international students at UW-Stout share their experiences and communicate with each other.</p>
                 <hr class="my-5" />
                 <h4 class="mb-4">
-                    <div class="icon-stack bg-primary text-white mr-2"><svg xmlns="http://www.w3.org/2000/svg"
-                            width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                            class="feather feather-arrow-right">
+                    <div class="icon-stack bg-primary text-white mr-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right">
                             <line x1="5" y1="12" x2="19" y2="12"></line>
                             <polyline points="12 5 19 12 12 19"></polyline>
                         </svg></div>
-                    This is what we do
+                    Using the Site
                 </h4>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, eos quisquam expedita quo officiis
-                    porro provident laborum. Earum, consequatur provident, ipsam at excepturi rerum laborum aliquam
-                    facere molestias mollitia recusandae.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, ipsam? Perspiciatis sunt voluptatum
-                    officia non harum, dolores omnis fugiat nam ad optio cumque molestiae impedit dignissimos velit
-                    commodi aliquid iure?</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Exercitationem sapiente natus architecto
-                    aut porro! Vitae iusto praesentium recusandae debitis, cumque illum amet suscipit rem pariatur,
-                    magni iure laborum inventore in!</p>
-                <div class="card bg-light shadow-none">
-                    <div class="card-body">
-                        <h6>Questions you should ask yourself</h6>
-                        <ul class="mb-0">
-                            <li class="text-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed soluta
-                                fugiat eveniet, dignissimos facere quisquam, odit suscipit aliquid magnam,?</li>
-                        </ul>
-                    </div>
-                </div>
+                <p>To use the website, you will need to register an account. Once you have an account you can publish content that others can see. Then other users can ask questions or provide answers in the comment section.</p>
+                <p>For example, if you want to share your experience of getting a driver's license, you can write your story and post it on the site. Users then can view the article and ask questions. You can answer the questions and other people who are familiar with the process can also give feedback.</p>
                 <hr class="my-5" />
                 <h4 class="mb-4">
-                    <div class="icon-stack bg-primary text-white mr-2"><svg xmlns="http://www.w3.org/2000/svg"
-                            width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                            class="feather feather-arrow-right">
+                    <div class="icon-stack bg-primary text-white mr-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right">
                             <line x1="5" y1="12" x2="19" y2="12"></line>
                             <polyline points="12 5 19 12 12 19"></polyline>
-                        </svg></div> Move with urgency and focus
+                        </svg></div> Content Guidelines
                 </h4>
-                <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit dolorem suscipit veniam
-                    excepturi soluta ducimus tempora quasi, itaque odit libero, eos in dolore natus, ipsam consectetur
-                    voluptate nulla provident aliquam?</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque laboriosam consequuntur iusto vero
-                    consequatur beatae, tempore voluptatem rerum sit facilis aut ea optio eaque quaerat, libero
-                    recusandae soluta molestiae veniam.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, ut! Ut ipsum debitis numquam.
-                    Perferendis, laudantium! Itaque ab velit eaque magnam quis quam libero saepe nobis culpa. Vitae,
-                    dignissimos iusto.</p>
+                <p>All users should create content that is related to UW-Stout. For example, posting information about “how to transfer to UW-Stout.” That said, posting information about “how to transfer to a college in the US” is not specific enough to UW-Stout. Non-Stout related posts will be removed by site administrator.</p>
+                <p>All users are expected to identify keywords for their make posts. This keyword will guide other users’ decisions about whether to read the content or not. Posts cannot be published without keywords. After posts have been published, the keyword will appear under the title of the post.</p>
                 <div class="card bg-light shadow-none">
                     <div class="card-body">
-                        <h6>Questions you should ask yourself</h6>
-                        <ul class="mb-0">
-                            <li class="text-italic">Lorem ipsum dolor sit amet, consectetur adipisicing elit?</li>
-                            <li class="text-italic">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas nobis
-                                illum nam?</li>
-                        </ul>
+                        <p>Keywords are also created by site administrators. For instance, an administrator identifies “study” as a keyword. Then users can choose this keyword when they write a post about this topic. </p>
                     </div>
                 </div>
                 <hr class="my-5" />
-                <h4>Feedback</h4>
-                <p class="lead">In the spirit of thinking rigorously, we&#x2019;d love your open and honest feedback on
-                    this guide. <a href="#!">Let us know what you think</a>.</p>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum culpa optio nihil id distinctio
-                    excepturi dignissimos, iure totam minima, natus ducimus.</p>
             </div>
         </div>
     </div>

@@ -1,5 +1,5 @@
 # stout_intl
-MFA thesis project 2020 spring 
+A CMS built with PHP and SQL
 
 ## Installation
 1. Download this project to your local machine

@@ -1,5 +1,5 @@
 # stout_intl
-A CMS built with PHP and SQL
+This project is a web-based content management system (CMS) designed to facilitate cross-cultural communication among international students at the University of Wisconsin-Stout. The system focuses on providing a platform for students to share their experiences, address challenges, and build a supportive community through user-generated content (UGC). The CMS allows students to create, manage, and engage with posts, fostering interaction and knowledge sharing. Key features include a user dashboard for content management, an admin dashboard for overseeing the platform, and robust user authentication for secure access. This project aims to enhance the academic and social experience of international students by providing a dedicated space for them to connect and support each other.
 
 ## Installation
 1. Download this project to your local machine
